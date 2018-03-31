@@ -19,7 +19,11 @@ CSDN博客：[blog.csdn.net/xiaowu_zhu](https://xiaowujiang.cn/csdn/)
 
 Github：[github.com/xiaowujiang](https://github.com/xiaowujiang)
 
-个人邮箱：[xiaowu_zhu@126.com](mailto: xiaowu_zhu@126.com)  [i.xiaowujiang@gmail.com](mailto: i.xiaowujiang@gmail.com)
+个人邮箱：
+
+* [xiaowu_zhu@126.com](mailto: xiaowu_zhu@126.com) 
+
+* [i.xiaowujiang@gmail.com](mailto: i.xiaowujiang@gmail.com)
 		
 
 

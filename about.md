@@ -11,7 +11,7 @@ description: " My name's JiangXiaowu"
 
 # 简介
 
-我是JiangXiaowu，2016年毕业于西安邮大学， 本科。我是一名android开发工程师。
+我是JiangXiaowu，2016年毕业于西安邮电大学， 本科。我是一名android开发工程师。
 
 个人主页：[xiaowujiang.cn](https://xiaowujiang.cn)
 
@@ -24,7 +24,6 @@ Github：[github.com/xiaowujiang](https://github.com/xiaowujiang)
 * [xiaowu_zhu@126.com](mailto: xiaowu_zhu@126.com) 
 
 * [i.xiaowujiang@gmail.com](mailto: i.xiaowujiang@gmail.com)
-		
 
 
 

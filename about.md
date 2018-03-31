@@ -15,7 +15,7 @@ description: " My name's JiangXiaowu"
 
 个人主页：[xiaowujiang.cn](https://xiaowujiang.cn)
 
-CSDN博客：[blog.csdn.net/xiaowu_zhu](https://xiaowujiang.cn/csdn/)
+CSDN博客：[xiaowujiang.cn/csdn/](https://xiaowujiang.cn/csdn/)
 
 Github：[github.com/xiaowujiang](https://github.com/xiaowujiang)
 

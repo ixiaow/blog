@@ -45,11 +45,12 @@ anchorjs: true                          # if you want to customize anchor. check
 #  input: GFM
 
 markdown: kramdown
-highlighter: rouge
-lsi:         false
-excerpt_separator: "\n\n"
-incremental: false
-  
+kramdown:
+    highlighter: rouge
+    lsi:         false
+    excerpt_separator: "\n\n"
+    incremental: false
+      
 
 
 # Analytics settings

@@ -43,6 +43,8 @@ anchorjs: true                          # if you want to customize anchor. check
 markdown: kramdown
 kramdown:
   input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
 
 
 # Analytics settings

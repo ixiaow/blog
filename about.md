@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-description: " My name's JiangXiaowu"
+description: " My name's xiaowu"
 ---
 
 > 及时当勤勉，岁月不待人
@@ -11,13 +11,13 @@ description: " My name's JiangXiaowu"
 
 # 简介
 
-我是JiangXiaowu，2016年毕业于西安邮电大学， 本科。我是一名android开发工程师。
+我是Xiaowu, 学历本科。我是一名android开发工程师。
 
 个人主页：[xiaowujiang.cn](https://xiaowujiang.cn)
 
 CSDN博客：[xiaowujiang.cn/csdn/](https://xiaowujiang.cn/csdn/)
 
-Github：[github.com/xiaowujiang](https://github.com/xiaowujiang)
+Github：[github.com/ixiaow](https://github.com/ixiaow)
 
 个人邮箱：
 

@@ -1,6 +1,6 @@
 # Xiaowu 's Blog
 
-## [Xiaowu's blog](https://xiaowujiang.github.io)
+## [Xiaowu's blog](https://ixiaow.github.io)
 
 本blog，使用的是[Promg.io](https://github.com/promeg/promeg.github.io) 的模板修改而成，相比之前不同之处在于：
 
@@ -19,4 +19,4 @@
 
 ## 欢迎大家fork
 
-## 如有侵权，请告知，我会立即删除相关部分。联系方式： [关于我](https://xiaowujiang.github.io/about/)
+## 如有侵权，请告知，我会立即删除相关部分。联系方式： [关于我](https://ixiaow.github.io/about/)

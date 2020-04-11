@@ -1,0 +1,27 @@
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="{{ site.description }}">
+    <meta name="keyword" content="{{ site.keyword }}">
+    <link rel="shortcut icon" href="{{'favicon.ico' | prepend: site.img_folder | perpend: site.baseurl }}">
+
+    <title>{% if page.title %}{{ page.title }} - {{ site.SEOTitle }}{% else %}{{ site.SEOTitle }}{% endif %}</title>
+
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    <!-- Bootstrap Core CSS -->
+    <link rel="stylesheet" href="{{ 'bootstrap-3.3.7/bootstrap.min.css' | prepend: site.css_folder | prepend: site.baseurl }}">
+    <link rel="stylesheet" href="{{'fancybox/jquery.fancybox.css?v=2.1.5' | prepend: site.js_folder | prepend: site.baseurl}}" media="all" />
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="{{ 'custom-blog.min.css' |prepend: site.css_folder | prepend: site.baseurl }}">
+
+    <!-- Pygments Github CSS -->
+    <link rel="stylesheet" href="{{ 'syntax.min.css' | prepend: site.css_folder | prepend: site.baseurl }}">
+    
+    <link rel="stylesheet" href="{{ '/search/css/cb-search.css' | prepend: site.baseurl }}">
+    <!-- Custom Fonts -->
+    <link href="{{ 'font-awesome-4.7.0/font-awesome.min.css' | prepend: site.font_folder | prepend: site.baseurl }}" rel="stylesheet"
+        type="text/css">
+    <link rel="stylesheet" href="{{'jPages.min.css' | prepend: site.css_folder | prepend: site.baseurl}}">
+    <script src="{{'jquery.min.js' |prepend: site.js_folder | prepend: site.baseurl}}"></script>
+</head>
